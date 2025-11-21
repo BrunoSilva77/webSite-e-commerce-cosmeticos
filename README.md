@@ -4,12 +4,6 @@ Landing page moderna e responsiva desenvolvida para a marca de perfumes e cosmé
 
 ---
 
-## 🖼️ Visualização
-
-[Insira aqui uma imagem (screenshot) da página inicial do projeto para destaque]
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto é uma aplicação estática, utilizando as seguintes tecnologias:
@@ -39,7 +33,7 @@ Para visualizar este projeto em seu ambiente local, siga as instruções:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://cursos.alura.com.br/forum/topico-sugestao-comandos-a-serem-realizados-e-em-ordem-318900](https://cursos.alura.com.br/forum/topico-sugestao-comandos-a-serem-realizados-e-em-ordem-318900)
+    git clone [https://cursos.alura.com.br/forum/topico-sugestao-comandos-a-serem-realizados-e-em-ordem-318900](https://cursos.alura.com.br/forum/topico-sugestao-comandos-a-serem-realizados-e-em-ordem-318900)](https://github.com/BrunoSilva77/webSite-e-commerce-cosmeticos)]
     ```
 2.  **Execute:**
     Abra o arquivo **`index.html`** diretamente no seu navegador. Não é necessário nenhum servidor web (como Node.js, Python, etc.) para visualização.
@@ -52,7 +46,7 @@ Este projeto foi finalizado e desenvolvido por:
 
 **BrunoSilva**
 
-* **LinkedIn:** https://www.linkedin.com/in/bruno-h-silva2025/
+* **LinkedIn:** [https://www.linkedin.com/in/bruno-h-silva2025/]
 
 ---
 
