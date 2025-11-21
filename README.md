@@ -33,7 +33,7 @@ Para visualizar este projeto em seu ambiente local, siga as instruções:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://cursos.alura.com.br/forum/topico-sugestao-comandos-a-serem-realizados-e-em-ordem-318900](https://cursos.alura.com.br/forum/topico-sugestao-comandos-a-serem-realizados-e-em-ordem-318900)](https://github.com/BrunoSilva77/webSite-e-commerce-cosmeticos)]
+    git clone [https://github.com/BrunoSilva77/webSite-e-commerce-cosmeticos]
     ```
 2.  **Execute:**
     Abra o arquivo **`index.html`** diretamente no seu navegador. Não é necessário nenhum servidor web (como Node.js, Python, etc.) para visualização.
